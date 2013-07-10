@@ -4,3 +4,8 @@
   background-repeat: no-repeat;
   filter: none;
 }
+
+.navbar .nav>li>a {
+  color: #fff;
+  text-shadow: none;
+}
