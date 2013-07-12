@@ -11,7 +11,7 @@
   background-repeat: repeat-x;*/
 
   /* IE8-9 gradient filter */
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#426E5B', endColorstr='#FFFFFF', GradientType=0);
+  /*filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#426E5B', endColorstr='#FFFFFF', GradientType=0);*/
 }
 
 .navbar .nav>li>a {
