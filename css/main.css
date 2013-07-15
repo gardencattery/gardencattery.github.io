@@ -18,3 +18,10 @@
   color: #fff;
   text-shadow: none;
 }
+
+.brand
+{
+  background: url(images/logo.png) no-repeat left center;
+  height: 180px;
+  width: 240px;
+}
