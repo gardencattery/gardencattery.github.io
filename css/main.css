@@ -10,7 +10,9 @@
   text-shadow: none;
 }
 
-.logo{height:61px;width:150px}
+.small-img-row {
+  margin-bottom: 10px;
+}
 
 /*.bannerpic{height:285px;width:759px} /*1140 x 3036*/*/
 
