@@ -31,13 +31,10 @@ li span {
   line-height: 50%;
 }
 
-/*.bannerpic{height:285px;width:759px} /*1140 x 3036*/*/
+table {
+  border-collapse:collapse;
+}
 
-/*.logo{height:49px;width:120px}*/
-
-/*.brand
-{
-  background: url(images/logo.png) no-repeat left center;
-  height: 180px;
-  width: 240px;
-}*/
+table, td, th {
+  border:1px solid black;
+}
