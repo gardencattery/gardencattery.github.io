@@ -20,7 +20,11 @@
 
 li
 {
-  color: #679e87;
+  color: #679e87;/* bullet color */
+}
+
+li span {
+  color: black; /* text color */
 }
 
 /*.bannerpic{height:285px;width:759px} /*1140 x 3036*/*/
