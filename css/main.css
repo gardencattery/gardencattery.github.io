@@ -20,7 +20,7 @@
 
 li
 {
-  color: #679e87;/* bullet color */
+  color: #679E87;/* bullet color */
 }
 
 li span {
@@ -36,7 +36,14 @@ table {
 }
 
 table, td, th {
-  border:1px solid #344F44;
+  border:1px solid #344F44; /*darker green same hue*/
   padding:15px;
-  background-color:#D1E2DB;
+}
+
+th {
+  background-color:#679E87;
+}
+
+td {
+  background-color:#E1ECE7;  /*paler green same hue*/
 }
