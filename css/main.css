@@ -27,6 +27,10 @@ li span {
   color: black; /* text color */
 }
 
+.half {
+  line-height: 50%;
+}
+
 /*.bannerpic{height:285px;width:759px} /*1140 x 3036*/*/
 
 /*.logo{height:49px;width:120px}*/
