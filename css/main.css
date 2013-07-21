@@ -15,8 +15,7 @@
 }
 
 .vcenter-text {
-  position:absolute;
-  top:50%;
+  margin-bottom: 40px;
 }
 
 /*.bannerpic{height:285px;width:759px} /*1140 x 3036*/*/
