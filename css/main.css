@@ -10,6 +10,10 @@
   text-shadow: none;
 }
 
+p.for-header {
+  font-size:0.875em;
+}
+
 .small-img-row {
   margin-bottom: 10px;
 }
