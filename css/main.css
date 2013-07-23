@@ -9,9 +9,14 @@ width: 940px;
     font-style: italic;
 }
 
+h1 {
+    font-size:0.8em;
+}
+
 #header-info {
     margin-top: 10px;
     text-align: right;
+    font-size:0.8em;
 }
 
 .navbar-inner {
@@ -24,10 +29,6 @@ width: 940px;
 .navbar .nav>li>a {
   color: #fff;
   text-shadow: none;
-}
-
-p.for-header {
-  font-size:0.8em;
 }
 
 .small-img-row {
