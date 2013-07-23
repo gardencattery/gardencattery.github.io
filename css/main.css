@@ -1,3 +1,19 @@
+@media (min-width: 1200px)
+.container, .navbar-static-top .container, .navbar-fixed-top .container, .navbar-fixed-bottom .container {
+width: 940px;
+}
+
+#tagline {
+    color: #679e87;
+    font-weight: bold;
+    font-style: italic;
+}
+
+#header-info {
+    margin-top: 10px;
+    text-align: right;
+}
+
 .navbar-inner {
    background-color: #679e87;
    background-image: none;
