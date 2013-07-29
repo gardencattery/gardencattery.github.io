@@ -1,8 +1,10 @@
-@media (min-width: 1200px) {
+/*@media (min-width: 1200px) {
     .container, .navbar-static-top .container, .navbar-fixed-top .container, .navbar-fixed-bottom .container {
         width: 940px;
     }
 }
+* This only changed the navbar, not the rest of the page...
+* */
 
 #tagline {
     color: #679e87;
