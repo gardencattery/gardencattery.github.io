@@ -16,6 +16,10 @@ h1 {
     font-size:0.8em;
 }
 
+p {
+	font-size:0.75em;
+}
+
 #header-info {
     margin-top: 10px;
     text-align: right;
