@@ -17,7 +17,7 @@ h1 {
 }
 
 p.normaltext {
-	font-size:0.90em;
+	font-size:0.90em; /*also bullet font size!*/
 }
 
 p.captiontext {
@@ -87,6 +87,7 @@ li
 
 li span {
   color: black; /* text color */
+  font-size:0.90em;
 }
 
 .half {
