@@ -20,6 +20,10 @@ p {
 	font-size:0.90em;
 }
 
+div.leftdiv {
+	float: left;
+}
+
 #header-info {
     margin-top: 10px;
     text-align: right;
