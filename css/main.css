@@ -24,6 +24,10 @@ div.leftdiv {
 	float: left;
 }
 
+div.leftdiv {
+	float: right;
+}
+
 #header-info {
     margin-top: 10px;
     text-align: right;
