@@ -24,8 +24,18 @@ div.leftdiv {
 	float: left;
 }
 
-div.leftdiv {
+div.leftdivRightpad {
+	float: left;
+	padding-right:5px;
+}
+
+div.rightdiv {
 	float: right;
+}
+
+div.rightdivLeftpad {
+	float: right;
+	padding-left:5px;
 }
 
 #header-info {
