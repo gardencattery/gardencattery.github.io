@@ -20,10 +20,12 @@ h2 {
     font-size:1.05em;
     color:#679e87;
 	font-weight: bold;
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
 
 p.normaltext {
-	font-size:0.90em; /*also bullet font size!*/
+	font-size:0.90em; /*also bullet and table font size!*/
 }
 
 p.captiontext {
@@ -107,6 +109,7 @@ table {
 table, td, th {
   border:1px solid #344F44; /*darker green same hue*/
   padding:15px;
+  font-size:0.90em;
 }
 
 th {
