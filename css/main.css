@@ -16,6 +16,12 @@ h1 {
     font-size:0.8em;
 }
 
+h2 {
+    font-size:1.05em;
+    color:#679e87;
+	font-weight: bold;
+}
+
 p.normaltext {
 	font-size:0.90em; /*also bullet font size!*/
 }
