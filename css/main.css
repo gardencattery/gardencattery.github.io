@@ -27,6 +27,7 @@ h2 {
 
 p.normaltext {
 	font-size:0.90em; /*also bullet and table font size!*/
+	text-align: justify;
 }
 
 p.captiontext {
