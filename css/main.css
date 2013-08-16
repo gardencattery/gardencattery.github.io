@@ -52,7 +52,7 @@ div.leftdiv {
 
 div.leftdivRightpad {
 	float: left;
-	margin-right:5px;
+	margin-right:15px;
 }
 
 div.rightdiv {
@@ -61,7 +61,7 @@ div.rightdiv {
 
 div.rightdivLeftpad {
 	float: right;
-	margin-left:5px;
+	margin-left:15px;
 }
 
 #header-info {
