@@ -26,6 +26,11 @@ footer {
     color: #679e87;
 }
 
+footer div.fb-follow {
+    float: right;
+    margin-left: 10px;
+}
+
 h1 {
     font-size:0.9em;
 }
