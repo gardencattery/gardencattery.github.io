@@ -143,6 +143,8 @@ td {
   background-color:#E1ECE7;  /*paler green same hue*/
 }
 
-.fb_edge_widget_with_comment span.fb_edge_comment_widget iframe.fb_ltr {
-    display: none !important;
+.fb-like.fb_edge_widget_with_comment.fb_iframe_widget span iframe {
+
+/* Now you can apply css here */
+bottom:0!important;
 }
