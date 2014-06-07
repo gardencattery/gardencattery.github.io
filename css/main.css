@@ -146,9 +146,6 @@ th {
   color: #fff;
 }
 
-th.calendar {
-  width: 14%
-}
 
 td {
   background-color:#E1ECE7;  /*paler green same hue*/
@@ -156,6 +153,14 @@ td {
 
 td.medcol {
 	background-color:#B3CEC3;  /*medium green same hue*/
+}
+
+th.xmas {
+  width: 50%
+}
+
+td.xmas {
+  width: 25%
 }
 
 .fb-like.fb_edge_widget_with_comment.fb_iframe_widget span iframe {
