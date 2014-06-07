@@ -52,6 +52,16 @@ h2 {
 	padding-bottom: 5px;
 }
 
+h3 {
+    clear: both;
+    font-size: 1.2em;
+    color:#679e87;
+	font-weight: bold;
+	line-height: 1.2em;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
 p.normaltext {
 	font-size:0.90em; /*also bullet and table font size!*/
 	text-align: justify;
