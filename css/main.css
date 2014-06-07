@@ -1,7 +1,7 @@
 /*
  * Main colour: #679e87
  * Dark: 		#344F44
- * Medium:		#8A9D95
+ * Medium:		#94BBAB
  * Light: 		#E1ECE7
 */
 
@@ -155,7 +155,7 @@ td {
 }
 
 td.medcol {
-	background-color:#8A9D95;  /*medium green same hue*/
+	background-color:#94BBAB;  /*medium green same hue*/
 }
 
 .fb-like.fb_edge_widget_with_comment.fb_iframe_widget span iframe {
