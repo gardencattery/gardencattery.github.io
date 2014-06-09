@@ -152,6 +152,12 @@ table, td, th {
   border-radius: 25px;
 }
 
+.table tr:last-child td
+{
+    border-bottom-left-radius: 25px;    
+    border-bottom-right-radius: 25px;   
+}
+
 th {
   background-color:#679E87;
   color: #fff;
