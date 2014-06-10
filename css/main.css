@@ -1,3 +1,10 @@
+/*
+ * Main colour: #679e87
+ * Dark: 		#344F44
+ * Medium:		#B3CEC3
+ * Light: 		#E1ECE7
+*/
+
 /*@media (min-width: 1200px) {
     .container, .navbar-static-top .container, .navbar-fixed-top .container, .navbar-fixed-bottom .container {
         width: 940px;
@@ -38,6 +45,16 @@ h1 {
 h2 {
     clear: both;
     font-size: 1.35em;
+    color:#679e87;
+	font-weight: bold;
+	line-height: 1.2em;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+h3 {
+    clear: both;
+    font-size: 1.2em;
     color:#679e87;
 	font-weight: bold;
 	line-height: 1.2em;
@@ -139,8 +156,21 @@ th {
   color: #fff;
 }
 
+
 td {
   background-color:#E1ECE7;  /*paler green same hue*/
+}
+
+td.medcol {
+	background-color:#B3CEC3;  /*medium green same hue*/
+}
+
+th.xmas {
+  width: 50%
+}
+
+td.xmas {
+  width: 25%
 }
 
 .fb-like.fb_edge_widget_with_comment.fb_iframe_widget span iframe {
