@@ -173,6 +173,19 @@ th.xmas {
   width: 14.2%
 }
 
+div.rectangle_medium {
+	width:25px;
+	height:25px;border:1px solid #679E87;
+	background-color:#B3CEC3;
+}
+
+
+div.rectangle_pale {
+	width:25px;
+	height:25px;border:1px solid #679E87;
+	background-color:#E1ECE7;
+}
+
 
 .fb-like.fb_edge_widget_with_comment.fb_iframe_widget span iframe {
 
