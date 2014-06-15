@@ -169,6 +169,25 @@ td.nocol {
 	background-color:#fff;  
 }
 
+td.green
+      {
+        background-color: green; 
+        padding: 0px; 
+        margin: 0px; 
+        height:100%;
+        text-align:center
+      }
+div.yellow
+		{
+		position:absolute; left:0px; top:0px;
+		width: 50%; 
+		height: 100%;
+		background-color:yellow
+		}
+		
+div.container { position:relative; height: 100%; }
+div.content { position:relative; z-index:1; }
+
 th.xmas {
   width: 14.2%
 }
