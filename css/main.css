@@ -175,19 +175,19 @@ th.xmas {
 }
 
 #opentimes .hover{
-     display:none;
+     display:none; !important;
  }
 
  #opentimes .nohower{
-     display:block;
+     display:block; !important;
  }
 
  #opentimes:hover .hover{
-     display:block;
+     display:block; !important;
  }
 
  #opentimes:hover .nohower{
-     display:none;
+     display:none; !important;
  }
 
 div.rectangle_medium {
