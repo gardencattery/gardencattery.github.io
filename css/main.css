@@ -54,7 +54,7 @@ h2 {
 
 h3 {
     clear: both;
-    font-size: 1.2em;
+    font-size: 1.20em;
     color:#679e87;
 	font-weight: bold;
 	line-height: 1.2em;
@@ -165,13 +165,44 @@ td.medcol {
 	background-color:#B3CEC3;  /*medium green same hue*/
 }
 
-th.xmas {
-  width: 50%
+td.nocol {
+	background-color:#fff;  
 }
 
-td.xmas {
-  width: 25%
+
+th.xmas {
+  width: 14.2%
 }
+
+#opentimes .hover{
+     display:none; !important;
+ }
+
+ #opentimes .nohower{
+     display:block; !important;
+ }
+
+ #opentimes:hover .hover{
+     display:block; !important;
+ }
+
+ #opentimes:hover .nohower{
+     display:none; !important;
+ }
+
+div.rectangle_medium {
+	width:25px;
+	height:25px;border:1px solid #679E87;
+	background-color:#B3CEC3;
+}
+
+
+div.rectangle_pale {
+	width:25px;
+	height:25px;border:1px solid #679E87;
+	background-color:#E1ECE7;
+}
+
 
 .fb-like.fb_edge_widget_with_comment.fb_iframe_widget span iframe {
 
