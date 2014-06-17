@@ -195,3 +195,102 @@ title: Garden Cattery - Your cat's home away from home
 				<td class="medcol">Closed</td>
 			</tr>
 		</table>-->
+        
+<!--
+http://forums.devshed.com/css-help/296270-colouring-half-table-cell-post1280417.html
+<table class="spec">
+          <tr>
+				<th class="xmas">Monday</th>
+				<th class="xmas">Tuesday</th>
+				<th class="xmas">Wednesday</th>
+				<th class="xmas">Thursday</th>
+				<th class="xmas">Friday</th>
+				<th class="xmas">Saturday</th>
+				<th class="xmas">Sunday</th>
+			</tr>
+          <tr>
+            			
+				<td class="spec">22<sup>nd</sup> December</td>
+				<td class="spec">23<sup>rd</sup> December</td>
+				<td class="spec medcol">Chrismas Eve</td>
+				<td class="spec medcol">Christmas Day</td>
+				<td class="spec medcol">Boxing Day</td>
+				<td class="spec">27<sup>th</sup> December</td>				
+				<td class="spec">
+              <div class="b r">
+        		<p class="message">28<sup>th</sup> December</p>
+              </div>
+            </td>
+			</tr>
+            
+
+      </table>
+      
+      
+      =================
+      
+      table {
+  border-collapse:collapse;
+}
+
+table.spec, td.spec, th.spec {
+  border:1px solid #344F44; /*darker green same hue*/
+  padding:0px;
+  font-size:0.90em;
+  text-align: center;
+  vertical-align: middle;
+}
+
+td.spec {
+    background-color:#E1ECE7;
+    }
+
+td div {
+    height: 0;
+    position: relative;
+    width: 0;
+    }
+
+
+div.b {
+    border-bottom: 6em solid #B3CEC3;
+    }
+
+div.r {
+    border-left: 6em solid transparent;
+    }
+
+
+td div p {
+    position: absolute;
+    width: 5.5em;
+    margin: 0;
+    padding: 0 .25em;
+    }
+
+p.message {
+    text-align: center;
+    }
+
+div.t p.message {
+    top: -4em;
+    }
+
+div.b p.message {
+    top: 2em;
+    }
+
+div.r p.message {
+    left: -6em;
+    }
+
+th.xmas {
+  width: 14.2%;
+  background-color:#679E87;
+  color: #fff;
+}
+
+td.medcol {
+	background-color:#B3CEC3;  /*medium green same hue*/
+}-->
+ 
