@@ -185,6 +185,10 @@ div.rectangle_pale {
 	background-color:#E1ECE7;
 }
 
+div.around_img {
+	padding:5px;
+}
+
 .fb-like.fb_edge_widget_with_comment.fb_iframe_widget span iframe {
 
 /* Now you can apply css here */
