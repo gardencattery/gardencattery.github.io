@@ -169,26 +169,9 @@ td.nocol {
 	background-color:#fff;  
 }
 
-
 th.xmas {
   width: 14.2%
 }
-
-#opentimes .hover{
-     display:none; !important;
- }
-
- #opentimes .nohower{
-     display:block; !important;
- }
-
- #opentimes:hover .hover{
-     display:block; !important;
- }
-
- #opentimes:hover .nohower{
-     display:none; !important;
- }
 
 div.rectangle_medium {
 	width:25px;
@@ -196,13 +179,15 @@ div.rectangle_medium {
 	background-color:#B3CEC3;
 }
 
-
 div.rectangle_pale {
 	width:25px;
 	height:25px;border:1px solid #679E87;
 	background-color:#E1ECE7;
 }
 
+div.around_img {
+	padding:5px;
+}
 
 .fb-like.fb_edge_widget_with_comment.fb_iframe_widget span iframe {
 
