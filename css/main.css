@@ -48,7 +48,7 @@ h2 {
     color:#679e87;
 	font-weight: bold;
 	line-height: 1.2em;
-	padding-top: 5px;
+	padding-top: 0px;
 	padding-bottom: 5px;
 }
 
@@ -58,7 +58,7 @@ h3 {
     color:#679e87;
 	font-weight: bold;
 	line-height: 1.2em;
-	padding-top: 0px;
+	padding-top: 5px;
 	padding-bottom: 5px;
 }
 
