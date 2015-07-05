@@ -117,9 +117,13 @@ div.rightdivLeftpad {
   text-shadow: none;
 }
 
-.navbar-toggle .icon-bar {
+.icon-bar {
   background-color: #fff
  }
+
+.navbar-toggle {
+  border: 1px solid #fff;
+}
 
 .small-img-row {
   margin-bottom: 10px;
