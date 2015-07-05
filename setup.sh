@@ -12,6 +12,6 @@ git fetch devrepo
 git checkout -b prod --track prodrepo/master
 
 git remote remove origin
-git branch -d master
+git branch -D master
 
 git checkout -b master --track devrepo/master
