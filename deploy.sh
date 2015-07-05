@@ -4,8 +4,8 @@ set -xe
 
 git checkout prod
 
-git merge master
+git merge dev
 
 git push
 
-git checkout master
+git checkout dev

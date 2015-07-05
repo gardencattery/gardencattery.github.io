@@ -14,4 +14,4 @@ git checkout -b prod --track prodrepo/master
 git remote remove origin
 git branch -D master
 
-git checkout -b master --track devrepo/master
+git checkout -b dev --track devrepo/master
