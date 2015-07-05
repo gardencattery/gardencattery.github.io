@@ -117,8 +117,8 @@ div.rightdivLeftpad {
   text-shadow: none;
 }
 
-.navbar .icon-bar{
-  background-color: #000
+.navbar-toggle .icon-bar {
+  background-color: #fff
  }
 
 .small-img-row {
