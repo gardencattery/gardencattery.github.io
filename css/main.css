@@ -71,7 +71,7 @@ p.normaltextnotjustify {
 	font-size:0.90em; /*also bullet and table font size!*/
 }
 
-p.normaltextnotjustify em{
+.highlight{
 	color:#679e87;
 	font-weight: bold;
 }
