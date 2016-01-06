@@ -78,7 +78,6 @@ p.normaltextnotjustify>span {
 
 p.normaltextnotjustifyitalic>span { 
 	font-style:italic;
-	margin-top:10px;
 	color:#679e87; 
 	font-weight: bold;
 }
@@ -117,7 +116,7 @@ div.rightdivLeftpad {
 	margin-left:15px;
 }
 
-div.top10 {
+.top10 {
 	margin-top:10px;
 }
 
