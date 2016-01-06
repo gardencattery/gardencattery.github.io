@@ -79,6 +79,8 @@ p.normaltextnotjustify>span {
 p.normaltextnotjustifyitalic>span { 
 	font-style:italic;
 	margin-top:10px;
+	color:#679e87; 
+	font-weight: bold;
 }
 
 p.captiontext {
