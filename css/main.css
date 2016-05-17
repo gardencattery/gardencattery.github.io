@@ -183,6 +183,11 @@ td {
 
 td.medcol {
 	background-color:#B3CEC3;  /*medium green same hue*/
+	font-weight: bold;
+}
+
+td.fontbold {
+	font-weight: bold;
 }
 
 td.nocol {
