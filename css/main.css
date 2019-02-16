@@ -67,6 +67,11 @@ p.normaltext {
 	text-align: justify;
 }
 
+p.normaltext>span {
+	color:#679e87; 
+	font-weight: bold;
+}
+
 p.normaltextnotjustify {
 	font-size:0.90em; /*also bullet and table font size!*/
 }
